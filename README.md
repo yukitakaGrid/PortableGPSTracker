@@ -1,6 +1,4 @@
-# ChildSupportMonitoringSystem
-
-### 就職用
+# ChildSupportMonitoringSystem(インターン成果物)
 
 ## 概要
 子供に向けたGPS付き防犯ブザーのIoT開発のプロトタイプ <br>
@@ -24,4 +22,7 @@
  <br>
 サーバー <br>
 ・インターンで事前に用意されたサーバー <br>
+
+### イメージ映像
+https://user-images.githubusercontent.com/105165980/209553594-d7634d21-92bf-48bf-947c-f2618670ced5.mp4
 
