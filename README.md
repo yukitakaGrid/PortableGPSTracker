@@ -25,4 +25,3 @@
 
 ### イメージ映像
 https://user-images.githubusercontent.com/105165980/209553594-d7634d21-92bf-48bf-947c-f2618670ced5.mp4
-
